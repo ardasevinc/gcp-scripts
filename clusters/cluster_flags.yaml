@@ -1,0 +1,6 @@
+--enable-stackdriver-kubernetes: true
+--machine-type: n1-standard-1
+--enable-autoscaling: true
+--max-nodes: 4
+--min-nodes: 1
+--zone: us-central1-a

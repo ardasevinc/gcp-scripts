@@ -1,0 +1,5 @@
+--addons:
+  - HttpLoadBalancing
+  - CloudRun
+--machine-type: n1-standard-2
+--enable-stackdriver-kubernetes: true
